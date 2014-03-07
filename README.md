@@ -1,0 +1,4 @@
+TapeEquilibrium
+===============
+
+Codility Training Question
